@@ -1,2 +1,3 @@
 # apple-background
- Fundo Apple
+ Fundo de navegador da Apple
+ Estilizado em CSS3
