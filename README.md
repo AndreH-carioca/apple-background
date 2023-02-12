@@ -16,7 +16,5 @@ Esse projeto está sob a licença MIT.
 
 ## 💻 Projeto
 
-A Lista To-Do é uma aplicação para afazeres
-
-- [Visite o projeto online](https://andreh-carioca.github.io/lista-toDo/)
+- [Visite o projeto online](https://andreh-carioca.github.io/apple-background/)
 
