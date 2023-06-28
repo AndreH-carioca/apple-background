@@ -1,20 +1,16 @@
-<h1 align="center"> Logo do Apple </h1>
+<h1 align="center">Apple Background - Logomarca da Apple </h1>
 
-<p align="center"> Desenvolvi a logomarca da Apple </p>
+<br>
 
-## 🚀 Tecnologias
+## Tecnologias Usadas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML e CSS
+- JavaScript
+- Git e GitHub
 
-- HTML
-- CSS
-- Git e Github
-
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
 
-## 💻 Projeto
-
-- [Visite o projeto online](https://andreh-carioca.github.io/apple-background/)
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
 
